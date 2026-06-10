@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Bzhi_DMP",
+  "version": "1.0.0",
+  "description": "开箱即用的美妆行业标签批量提取工具",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "*://*.taobao.com/*"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["panel.html", "dmp_tags_dictionary.json"],
+      "matches": ["*://dmp.taobao.com/*"]
+    }
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://dmp.taobao.com/*"],
+      "js": ["hook.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    },
+    {
+      "matches": ["*://dmp.taobao.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

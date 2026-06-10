@@ -1,0 +1,458 @@
+[
+  {
+    "mainCategory": "用户特征",
+    "category": "基础特征",
+    "tagName": "居住城市",
+    "tagId": "160571",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "基础特征",
+    "tagName": "用户年龄",
+    "tagId": "114555",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "基础特征",
+    "tagName": "用户性别",
+    "tagId": "114554",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "基础特征",
+    "tagName": "用户星座",
+    "tagId": "111046",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "亲缘关系",
+    "tagName": "预测子女性别",
+    "tagId": "273632",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "亲缘关系",
+    "tagName": "宠物年龄",
+    "tagId": "114595",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "位置信息",
+    "tagName": "城市等级",
+    "tagId": "213510",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "社会特征",
+    "tagName": "人生阶段",
+    "tagId": "150663",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "社会特征",
+    "tagName": "用户职业",
+    "tagId": "135100",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "社会特征",
+    "tagName": "教育程度",
+    "tagId": "113736",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "消费特征",
+    "tagName": "消费能力等级",
+    "tagId": "163535",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "消费特征",
+    "tagName": "月均消费频次",
+    "tagId": "150375",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "消费特征",
+    "tagName": "月均消费金额",
+    "tagId": "150374",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "消费特征",
+    "tagName": "淘气值活跃度",
+    "tagId": "150373",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "消费特征",
+    "tagName": "购物决策导向",
+    "tagId": "150372",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "消费特征",
+    "tagName": "常用上网设备",
+    "tagId": "113431",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "长期兴趣",
+    "tagName": "运动兴趣",
+    "tagId": "177964",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "长期兴趣",
+    "tagName": "明星和节目兴趣",
+    "tagId": "144027",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "长期兴趣",
+    "tagName": "生活兴趣",
+    "tagId": "136168",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "长期兴趣",
+    "tagName": "美食兴趣",
+    "tagId": "136167",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "长期兴趣",
+    "tagName": "科技设备兴趣",
+    "tagId": "136166",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "长期兴趣",
+    "tagName": "特征兴趣",
+    "tagId": "125020",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "用户特征",
+    "category": "长期兴趣",
+    "tagName": "旅游兴趣",
+    "tagId": "112395",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "品类特征",
+    "category": "行业特征",
+    "tagName": "类目行为人群",
+    "tagId": "150384",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "品类特征",
+    "category": "策略人群",
+    "tagName": "运动户外圈层人群",
+    "tagId": "287274",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "品类特征",
+    "category": "策略人群",
+    "tagName": "大快消策略人群（新）",
+    "tagId": "266238",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "品类特征",
+    "category": "策略人群",
+    "tagName": "消费电子策略人群",
+    "tagId": "240583",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "品类特征",
+    "category": "策略人群",
+    "tagName": "大快消策略人群（老）",
+    "tagId": "239569",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "品类特征",
+    "category": "策略人群",
+    "tagName": "天猫国际人生阶段",
+    "tagId": "158864",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "品类特征",
+    "category": "策略人群",
+    "tagName": "大服饰策略人群",
+    "tagId": "151343",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "品类特征",
+    "category": "策略人群",
+    "tagName": "汽车品牌车系",
+    "tagId": "147984",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "品类特征",
+    "category": "策略人群",
+    "tagName": "童装尺码偏好",
+    "tagId": "112175",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "推荐渠道",
+    "tagName": "推荐渠道行为人群",
+    "tagId": "153223",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "推荐渠道",
+    "tagName": "推荐渠道活跃分层",
+    "tagId": "150465",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "内容渠道",
+    "tagName": "内容渠道行为人群",
+    "tagId": "150666",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "内容渠道",
+    "tagName": "内容渠道活跃分层",
+    "tagId": "150492",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "内容渠道",
+    "tagName": "行业大主播粉丝人群",
+    "tagId": "146968",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "活动渠道",
+    "tagName": "活动渠道活跃分层",
+    "tagId": "150462",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "活动渠道",
+    "tagName": "活动渠道行为人群",
+    "tagId": "150461",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "搜索渠道",
+    "tagName": "搜索渠道活跃分层",
+    "tagId": "150398",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "天猫渠道",
+    "tagName": "天猫渠道活跃分层",
+    "tagId": "150468",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "天猫渠道",
+    "tagName": "天猫渠道行为人群",
+    "tagId": "150467",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "广告渠道",
+    "tagName": "广告渠道活跃分层",
+    "tagId": "150471",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "渠道特征",
+    "category": "站外渠道",
+    "tagName": "全域MVP人群",
+    "tagId": "243354",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺用户分层",
+    "tagName": "店铺潜新老客",
+    "tagId": "213740",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺用户分层",
+    "tagName": "店铺策略人群",
+    "tagId": "152329",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺用户分层",
+    "tagName": "店铺会员分层",
+    "tagId": "150561",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺用户分层",
+    "tagName": "店铺超级用户",
+    "tagId": "136394",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺用户行为",
+    "tagName": "店铺行为人群",
+    "tagId": "150834",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺用户行为",
+    "tagName": "店铺消费决策导向",
+    "tagId": "150483",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺用户行为",
+    "tagName": "下单未付款用户",
+    "tagId": "112749",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺用户行为",
+    "tagName": "有店铺优惠券用户",
+    "tagId": "111650",
+    "annotation": "",
+    "needCondition": false
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺渠道特征",
+    "tagName": "店铺内容渠道用户",
+    "tagId": "150822",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺渠道特征",
+    "tagName": "店铺活动渠道用户",
+    "tagId": "150821",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺渠道特征",
+    "tagName": "店铺广告渠道用户",
+    "tagId": "150613",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "店铺渠道特征",
+    "tagName": "店铺站外渠道用户",
+    "tagId": "149935",
+    "annotation": "",
+    "needCondition": true
+  },
+  {
+    "mainCategory": "私域特征",
+    "category": "品牌资产分布",
+    "tagName": "店铺品牌deeplink资产",
+    "tagId": "174184",
+    "annotation": "",
+    "needCondition": true
+  }
+]
